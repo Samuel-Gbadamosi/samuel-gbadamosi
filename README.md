@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuel-gbadamosi
 - 👀 I’m interested in Programming , developing Web Pages and Software Applications
-- 🌱 I’m currently learning New Languages
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning New Languages and Frameworks 
+- 💞️ I’m looking to collaborate on new mini projects 
 - 📫 How to reach me damosisamuel@gmail.com
 
 <!---
